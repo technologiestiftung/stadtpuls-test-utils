@@ -1,6 +1,6 @@
 {
   "name": "stadtpuls-test-utils",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "shared test utilities for the stadtpuls project",
   "main": "dist/cjs/index.js",
   "module": "dist/mjs/index.js",
