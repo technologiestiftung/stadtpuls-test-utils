@@ -44,7 +44,7 @@ export async function execQuery(
   try {
     if (!client) throw new Error("DB client not connected");
     const res = await client.query(query, values);
-    client.release();
+    // client.release();
     return res;
   } catch (error) {
     if (!isCI) {
@@ -53,7 +53,7 @@ export async function execQuery(
         error
       );
     }
-    client.release();
+    // client.release();
     throw error;
   }
 }
