@@ -69,6 +69,7 @@
     "@stdlib/random": "0.0.12",
     "@technologiestiftung/stadtpuls-supabase-definitions": "0.0.5",
     "@types/pg": "8.6.4",
+    "ci-info": "3.3.0",
     "date-fns": "2.28.0",
     "pg": "8.7.3",
     "pg-format": "1.0.4"
