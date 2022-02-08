@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/technologiestiftung/stadtpuls-test-utils/compare/v1.0.2...v1.0.3) (2022-02-08)
+
+
+### Bug Fixes
+
+* **execQuery:** Remove release call on client ([efc8ae4](https://github.com/technologiestiftung/stadtpuls-test-utils/commit/efc8ae48a26f033e193fc8efb9b312ec1377b857))
+
 ## [1.0.2](https://github.com/technologiestiftung/stadtpuls-test-utils/compare/v1.0.1...v1.0.2) (2022-02-08)
 
 
