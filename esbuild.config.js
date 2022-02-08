@@ -1,3 +1,4 @@
+/* eslint-disable jest/require-hook */
 /* eslint-disable @typescript-eslint/no-var-requires */
 //@ts-check
 
@@ -11,11 +12,13 @@ const entryPoints = glob.sync("src/**/*.ts", {
 });
 const esbuild = require("esbuild");
 // process.exit(0);
+// eslint-disable-next-line jest/require-hook
 esbuild
   .build({
     platform: "node",
     sourcemap: true,
     banner: {
+      // eslint-disable-next-line quotes
       js: '"use strict";',
     },
     target: ["esnext", "node16"],
@@ -50,6 +53,7 @@ esbuild
     platform: "node",
     sourcemap: true,
     banner: {
+      // eslint-disable-next-line quotes
       js: '"use strict";',
     },
     target: ["es2020", "node14"],

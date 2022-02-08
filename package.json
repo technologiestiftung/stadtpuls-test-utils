@@ -1,5 +1,5 @@
 {
-  "name": "stadtpuls-test-utils",
+  "name": "@technologiestiftung/stadtpuls-test-utils",
   "version": "1.0.0",
   "description": "shared test utilities for the stadtpuls project",
   "engines": {
