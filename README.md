@@ -1,20 +1,8 @@
-<h1 align="center">Welcome to stadtpuls-test-utils 👋</h1>
+<h1 align="center">Welcome to stadtpuls-test-utils</h1>
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/node-%3E%3D14-blue.svg" />
-  <a href="https://github.com/technologiestiftung/stadtpuls-test-utils#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils" />
-  </a>
-</p>
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END --> ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
 
 > shared test utilities for the stadtpuls project
 
@@ -34,20 +22,20 @@ npm i @technologiestiftung/stadtpuls-test-utils
 npm test
 ```
 
-## Authors
+## Maintainers
 
 - **ff6347 <hash@ff6347.email>**
 
 ## License
 
-Copyright © 2022 [ff6347 <hash@ff6347.email>](https://github.com/technologiestiftung).<br />
+Copyright © 2022 [Technologiestiftung Berlin & Fabian Morón Zirfas](https://github.com/technologiestiftung).<br />
 This project is [MIT](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE) licensed.
 
 ## Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/technologiestiftung/stadtpuls-test-utils/issues). You can also take a look at the [contributing guide](https://github.com/technologiestiftung/stadtpuls/blob/main/CONTRIBUTING.md).
 
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
