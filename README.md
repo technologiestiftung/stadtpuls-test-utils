@@ -16,6 +16,59 @@
 npm i @technologiestiftung/stadtpuls-test-utils
 ```
 
+## Usage
+
+### Commonjs
+
+```js
+//@ts-check
+const {
+  closePool,
+  openPool,
+  getClient,
+  execQuery,
+} = require("@technologiestiftung/stadtpuls-test-utils");
+
+async function main() {
+  await openPool("postgres://postgres:postgres@localhost:5432/postgres");
+  const client = await getClient();
+  await client.query(
+    "CREATE TABLE IF NOT EXISTS test (id serial PRIMARY KEY, name varchar(255))"
+  );
+  await client.query("INSERT INTO test (name) VALUES ($1)", ["foo"]);
+  const result = await client.query("SELECT * FROM test", []);
+  // @ts-ignore
+  console.log(result.rows);
+  await closePool();
+}
+main().catch(console.error);
+```
+
+### Typescript & ESM
+
+```ts
+import {
+  closePool,
+  openPool,
+  getClient,
+  execQuery,
+} from "@technologiestiftung/stadtpuls-test-utils";
+
+async function main() {
+  await openPool("postgres://postgres:postgres@localhost:5432/postgres");
+  const client = await getClient();
+  await client.query(
+    "CREATE TABLE IF NOT EXISTS test (id serial PRIMARY KEY, name varchar(255))"
+  );
+  await client.query("INSERT INTO test (name) VALUES ($1)", ["foo"]);
+  const result = await client.query("SELECT * FROM test", []);
+  // @ts-ignore
+  console.log(result.rows);
+  await closePool();
+}
+main().catch(console.error);
+```
+
 ## Run tests
 
 ```sh
