@@ -1,6 +1,6 @@
 module.exports = {
   branches: ["main", "staging"],
-  npmPublish: false,
+  npmPublish: true,
   dryRun: false,
   plugins: [
     "@semantic-release/commit-analyzer",
