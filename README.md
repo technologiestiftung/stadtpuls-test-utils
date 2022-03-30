@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to stadtpuls-test-utils</h1>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END --> ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
 
 > shared test utilities for the stadtpuls project
 
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://fabianmoronzirfas.me/"><img src="https://avatars.githubusercontent.com/u/315106?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Fabian Morón Zirfas</b></sub></a><br /><a href="https://github.com/technologiestiftung/stadtpuls-test-utils/commits?author=ff6347" title="Code">💻</a> <a href="https://github.com/technologiestiftung/stadtpuls-test-utils/commits?author=ff6347" title="Documentation">📖</a> <a href="#design-ff6347" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/vogelino"><img src="https://avatars.githubusercontent.com/u/2759340?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Lucas Vogel</b></sub></a><br /><a href="https://github.com/technologiestiftung/stadtpuls-test-utils/commits?author=vogelino" title="Documentation">📖</a></td>
   </tr>
 </table>
 
