@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to stadtpuls-test-utils</h1>
+![](https://img.shields.io/badge/Build%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiesitftung%20Berlin-blue) 
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END --> ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
 
-> shared test utilities for the stadtpuls project
+# Welcome to stadtpuls-test-utils
+
+This repo contains shared test utilities for the [stadtpuls project](https://github.com/technologiestiftung/stadtpuls).
 
 ## Prerequisites
 
@@ -108,3 +108,31 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Credits
+
+<table>
+  <tr>
+    <td>
+      <a src="https://citylab-berlin.org/en/start/">
+        <br />
+        <br />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-citylab-berlin.svg" />
+      </a>
+    </td>
+    <td>
+      A project by: <a src="https://www.technologiestiftung-berlin.de/en/">
+        <br />
+        <br />
+        <img width="150" src="https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-en.svg" />
+      </a>
+    </td>
+    <td>
+      Supported by: <a src="https://www.berlin.de/rbmskzl/en/">
+        <br />
+        <br />
+        <img width="80" src="https://logos.citylab-berlin.org/logo-berlin-senatskanzelei-en.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
