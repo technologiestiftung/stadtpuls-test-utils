@@ -1,10 +1,10 @@
-<h1 align="center">Welcome to stadtpuls-test-utils</h1>
+![](https://img.shields.io/badge/Build%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiesitftung%20Berlin-blue) 
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg)](#contributors-)<!-- ALL-CONTRIBUTORS-BADGE:END --> ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
+# Welcome to stadtpuls-test-utils
 
-> shared test utilities for the stadtpuls project
+This repo contains shared test utilities for the [stadtpuls project](https://github.com/technologiestiftung/stadtpuls).
 
 ## Prerequisites
 
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://fabianmoronzirfas.me/"><img src="https://avatars.githubusercontent.com/u/315106?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Fabian Morón Zirfas</b></sub></a><br /><a href="https://github.com/technologiestiftung/stadtpuls-test-utils/commits?author=ff6347" title="Code">💻</a> <a href="https://github.com/technologiestiftung/stadtpuls-test-utils/commits?author=ff6347" title="Documentation">📖</a> <a href="#design-ff6347" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/vogelino"><img src="https://avatars.githubusercontent.com/u/2759340?v=4?s=64" width="64px;" alt=""/><br /><sub><b>Lucas Vogel</b></sub></a><br /><a href="https://github.com/technologiestiftung/stadtpuls-test-utils/commits?author=vogelino" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -107,3 +108,31 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Credits
+
+<table>
+  <tr>
+    <td>
+      <a src="https://citylab-berlin.org/en/start/">
+        <br />
+        <br />
+        <img width="200" src="https://logos.citylab-berlin.org/logo-citylab-berlin.svg" />
+      </a>
+    </td>
+    <td>
+      A project by: <a src="https://www.technologiestiftung-berlin.de/en/">
+        <br />
+        <br />
+        <img width="150" src="https://logos.citylab-berlin.org/logo-technologiestiftung-berlin-en.svg" />
+      </a>
+    </td>
+    <td>
+      Supported by: <a src="https://www.berlin.de/rbmskzl/en/">
+        <br />
+        <br />
+        <img width="80" src="https://logos.citylab-berlin.org/logo-berlin-senatskanzelei-en.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
