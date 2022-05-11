@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Build%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiesitftung%20Berlin-blue) 
+![](https://img.shields.io/badge/Built%20with%20%E2%9D%A4%EF%B8%8F-at%20Technologiestiftung%20Berlin-blue)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000) ![](https://img.shields.io/badge/node-%3E%3D14-blue.svg) [ ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils#readme) [ ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ](https://github.com/technologiestiftung/stadtpuls-test-utils/graphs/commit-activity) [![License: MIT](https://img.shields.io/github/license/technologiestiftung/stadtpuls-test-utils)](https://github.com/technologiestiftung/stadtpuls-test-utils/blob/main/LICENSE)
 
