@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/technologiestiftung/stadtpuls-test-utils/compare/v1.0.3...v1.0.4) (2022-05-11)
+
+
+### Bug Fixes
+
+* typo in badge ([85a1233](https://github.com/technologiestiftung/stadtpuls-test-utils/commit/85a1233513895ec3e553700e7d0d534a6c19fe6c))
+
 ## [1.0.3](https://github.com/technologiestiftung/stadtpuls-test-utils/compare/v1.0.2...v1.0.3) (2022-02-08)
 
 

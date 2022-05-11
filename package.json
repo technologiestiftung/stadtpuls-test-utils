@@ -1,6 +1,6 @@
 {
   "name": "@technologiestiftung/stadtpuls-test-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "shared test utilities for the stadtpuls project",
   "engines": {
     "node": ">=14"
